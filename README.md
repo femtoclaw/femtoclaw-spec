@@ -1,0 +1,2 @@
+# femtoclaw-spec
+FemtoClaw Specification
