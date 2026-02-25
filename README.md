@@ -1,13 +1,23 @@
-# Engineering Specification Index
-
-**FemtoClaw — Industrial Agent Runtime Engineering Specification**
+# Readme
 
 **Version:** 1.0.0  
 **Date:** 2026-02-25  
-**Status:** Production Specification  
+**Status:** Engineering Specification  
 
 ---
 
-This directory contains the complete FemtoClaw engineering specification.
+## Purpose
 
-Documents cover architecture, protocol, safety, deployment, and extensibility.
+This document defines engineering requirements for the Readme component.
+
+## Architecture
+
+This component participates in FemtoClaw runtime execution architecture.
+
+## Requirements
+
+Implementations must maintain correctness, safety, and determinism.
+
+## Compliance
+
+Component must comply with runtime safety guarantees.
